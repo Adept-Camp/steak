@@ -1,0 +1,2 @@
+# steak
+staking on xdai
